@@ -76,6 +76,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 <!-- BLOG-POST-LIST:START -->
 [Asynchronous Javascript and the event loop](https://medium.com/@ruthlessasync/asynchronous-javascript-and-the-event-loop-d1b305509347?source=rss-6b8dfab7a969------2)
+  
 [Do you plan for your small software projects?](https://medium.com/@ruthlessasync/do-you-plan-for-your-small-software-projects-c8a119a450fd?source=rss-6b8dfab7a969------2)
 <!-- BLOG-POST-LIST:END -->
 
