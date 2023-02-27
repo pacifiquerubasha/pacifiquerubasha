@@ -25,6 +25,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAzZGZkYWRiZTYzMjY5OWNiODk5NWM0ODQxZjM0ZTA2Yzk1MGE5ZiZjdD1n/BgKEiHf1xNV0h6IcSX/giphy.gif" width="700" height="500"/>
 </div>
+  
 ---
 
 ### :man_technologist: About Me :
@@ -68,7 +69,14 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacifiquerubasha&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=pacifiquerubasha&theme=highcontrast&show_icons=true&count_private=true)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquerubasha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Repos
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pacifiquerubasha&repo=steve&show_owner=true)](https://github.com/pacifiquerubasha/steve)
+
 
 ---
 
@@ -82,3 +90,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 
 </div>
+  
+![Snake animation](https://github.com/pacifiquerubasha/pacifiquerubasha/blob/output/github-contribution-grid-snake.svg)
+
