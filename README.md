@@ -22,12 +22,12 @@
   </h1>
 <div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAzZGZkYWRiZTYzMjY5OWNiODk5NWM0ODQxZjM0ZTA2Yzk1MGE5ZiZjdD1n/BgKEiHf1xNV0h6IcSX/giphy.gif" width="700" height="500"/>
-</div>
+</div> -->
   
 ---
-
+<!--
 ### :man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DRC.
 
@@ -39,7 +39,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 :mailbox:How to reach me: [Portfolio](https://pacifiquerubasha.netlify.app/)
   
----
+--- -->
 
 ### :hammer_and_wrench: Languages and Tools :
  
@@ -73,22 +73,24 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquerubasha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### My Repos
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pacifiquerubasha&repo=steve&show_owner=true)](https://github.com/pacifiquerubasha/steve)
+-->
 
-
----
-
+<!--
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Asynchronous Javascript and the event loop](https://medium.com/@ruthlessasync/asynchronous-javascript-and-the-event-loop-d1b305509347?source=rss-6b8dfab7a969------2)
-- [Do you plan for your small software projects?](https://medium.com/@ruthlessasync/do-you-plan-for-your-small-software-projects-c8a119a450fd?source=rss-6b8dfab7a969------2)
+- [Do you plan for your small software projects?](https://medium.com/@ruthlessasync/do-you-plan-for-your-small-software-projects-c8a119a450fd?source=rss-6b8dfab7a969------2
+-->
 <!-- BLOG-POST-LIST:END -->
 
-
+<!--
 </div>
   
 ![Snake animation](https://github.com/pacifiquerubasha/pacifiquerubasha/blob/output/github-contribution-grid-snake.svg)
-
+-->
